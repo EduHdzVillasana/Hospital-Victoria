@@ -1,0 +1,2 @@
+Este proyecto se realizo para la materia de "Estructura de Datos" del tercer semestre de la licenciatura en ciencias computacionales.
+Se tomó el proyecto del semestre anterior y se implementaron listas encadenadas 

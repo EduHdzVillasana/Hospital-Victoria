@@ -1,0 +1,4 @@
+1,Eduardo Alan,Todologo,ooo,292,900,
+2,Who,neuro,nn,22,900,
+3,Juan,tot,jhv,99,1200,
+4,Ernesto,todologo,ern,834,200,
